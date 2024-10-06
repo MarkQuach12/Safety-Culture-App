@@ -1,0 +1,907 @@
+[
+	{
+		"name": "adapted-starfox",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox"
+	},
+	{
+		"name": "engaging-silver",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver"
+	},
+	{
+		"name": "dear-gladiator",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator"
+	},
+	{
+		"name": "giving-mongu",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.giving-mongu"
+	},
+	{
+		"name": "native-stingray",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.giving-mongu.native-stingray"
+	},
+	{
+		"name": "native-mint",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.giving-mongu.native-mint"
+	},
+	{
+		"name": "keen-vector",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.giving-mongu.keen-vector"
+	},
+	{
+		"name": "outgoing-leatherhead",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.giving-mongu.outgoing-leatherhead"
+	},
+	{
+		"name": "rested-savant",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.rested-savant"
+	},
+	{
+		"name": "needed-infragirl",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.rested-savant.needed-infragirl"
+	},
+	{
+		"name": "relaxing-sentinels",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.rested-savant.relaxing-sentinels"
+	},
+	{
+		"name": "organic-dormammu",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.rested-savant.organic-dormammu"
+	},
+	{
+		"name": "model-saracen",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.model-saracen"
+	},
+	{
+		"name": "rested-clobberella",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.model-saracen.rested-clobberella"
+	},
+	{
+		"name": "finer-photon",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.engaging-silver.dear-gladiator.model-saracen.finer-photon"
+	},
+	{
+		"name": "civil-echo",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo"
+	},
+	{
+		"name": "loyal-gargoyle",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle"
+	},
+	{
+		"name": "settled-weapon-omega",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.settled-weapon-omega"
+	},
+	{
+		"name": "striking-green-arrow",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.settled-weapon-omega.striking-green-arrow"
+	},
+	{
+		"name": "close-gypsy",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.settled-weapon-omega.close-gypsy"
+	},
+	{
+		"name": "charmed-hawk",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.settled-weapon-omega.charmed-hawk"
+	},
+	{
+		"name": "dynamic-the-punisher",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.dynamic-the-punisher"
+	},
+	{
+		"name": "main-blue-beetle",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.dynamic-the-punisher.main-blue-beetle"
+	},
+	{
+		"name": "rich-grey-gargoyle",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.dynamic-the-punisher.rich-grey-gargoyle"
+	},
+	{
+		"name": "engaged-blob",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.dynamic-the-punisher.engaged-blob"
+	},
+	{
+		"name": "easy-demogoblin",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.dynamic-the-punisher.easy-demogoblin"
+	},
+	{
+		"name": "learning-fire",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.learning-fire"
+	},
+	{
+		"name": "calm-slayback",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.learning-fire.calm-slayback"
+	},
+	{
+		"name": "fine-vengeance",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.learning-fire.fine-vengeance"
+	},
+	{
+		"name": "main-wolfsbane",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.loyal-gargoyle.learning-fire.main-wolfsbane"
+	},
+	{
+		"name": "trusty-bloodscream",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream"
+	},
+	{
+		"name": "sensible-azrael",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.sensible-azrael"
+	},
+	{
+		"name": "obliging-diamondback",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.sensible-azrael.obliging-diamondback"
+	},
+	{
+		"name": "liberal-steel-serpent",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.sensible-azrael.liberal-steel-serpent"
+	},
+	{
+		"name": "factual-lady-bullseye",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.sensible-azrael.factual-lady-bullseye"
+	},
+	{
+		"name": "stunning-psycho-man",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.sensible-azrael.stunning-psycho-man"
+	},
+	{
+		"name": "electric-steel",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.electric-steel"
+	},
+	{
+		"name": "suited-tomorrow-man",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.electric-steel.suited-tomorrow-man"
+	},
+	{
+		"name": "noted-power",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.electric-steel.noted-power"
+	},
+	{
+		"name": "darling-captain-cross",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.darling-captain-cross"
+	},
+	{
+		"name": "darling-ice",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.darling-captain-cross.darling-ice"
+	},
+	{
+		"name": "huge-genesis",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.darling-captain-cross.huge-genesis"
+	},
+	{
+		"name": "perfect-saracen",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.perfect-saracen"
+	},
+	{
+		"name": "precious-gargoyles",
+		"org_id": "0cfeed9e-eb7e-4b95-80ce-18c72368e78b",
+		"paths": "adapted-starfox.civil-echo.trusty-bloodscream.perfect-saracen.precious-gargoyles"
+	},
+	{
+		"name": "helped-black-knight",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight"
+	},
+	{
+		"name": "classic-abyss",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss"
+	},
+	{
+		"name": "coherent-blood-wraith",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith"
+	},
+	{
+		"name": "steady-star-lord",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith.steady-star-lord"
+	},
+	{
+		"name": "valid-tsunami",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith.steady-star-lord.valid-tsunami"
+	},
+	{
+		"name": "hopeful-the-wasp",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith.hopeful-the-wasp"
+	},
+	{
+		"name": "literate-controller",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith.hopeful-the-wasp.literate-controller"
+	},
+	{
+		"name": "pretty-green-arrow",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith.pretty-green-arrow"
+	},
+	{
+		"name": "gorgeous-doctor-mindbender",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.coherent-blood-wraith.pretty-green-arrow.gorgeous-doctor-mindbender"
+	},
+	{
+		"name": "stirring-grim-reaper",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper"
+	},
+	{
+		"name": "winning-gorilla-man",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.winning-gorilla-man"
+	},
+	{
+		"name": "crisp-witchblade",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.winning-gorilla-man.crisp-witchblade"
+	},
+	{
+		"name": "outgoing-donatello",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.winning-gorilla-man.outgoing-donatello"
+	},
+	{
+		"name": "picked-lionheart",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.winning-gorilla-man.picked-lionheart"
+	},
+	{
+		"name": "humane-frenzy",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.winning-gorilla-man.humane-frenzy"
+	},
+	{
+		"name": "allowing-spellbinder",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.allowing-spellbinder"
+	},
+	{
+		"name": "sound-black",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.allowing-spellbinder.sound-black"
+	},
+	{
+		"name": "engaged-andromeda",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.engaged-andromeda"
+	},
+	{
+		"name": "sharing-metal-master",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.classic-abyss.stirring-grim-reaper.engaged-andromeda.sharing-metal-master"
+	},
+	{
+		"name": "singular-howard",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard"
+	},
+	{
+		"name": "expert-piledriver",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.expert-piledriver"
+	},
+	{
+		"name": "prepared-fever",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.expert-piledriver.prepared-fever"
+	},
+	{
+		"name": "evident-omega-red",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.expert-piledriver.prepared-fever.evident-omega-red"
+	},
+	{
+		"name": "steady-hammerhead",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.expert-piledriver.prepared-fever.steady-hammerhead"
+	},
+	{
+		"name": "uncommon-fallen",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.expert-piledriver.prepared-fever.uncommon-fallen"
+	},
+	{
+		"name": "premium-viper",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper"
+	},
+	{
+		"name": "capable-ezekiel",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.capable-ezekiel"
+	},
+	{
+		"name": "guided-robin-hood",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.capable-ezekiel.guided-robin-hood"
+	},
+	{
+		"name": "accepted-killer-shrike",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.capable-ezekiel.accepted-killer-shrike"
+	},
+	{
+		"name": "unique-hawk",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.capable-ezekiel.unique-hawk"
+	},
+	{
+		"name": "next-network",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.next-network"
+	},
+	{
+		"name": "moving-flatman",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.next-network.moving-flatman"
+	},
+	{
+		"name": "liberal-night-thrasher",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.liberal-night-thrasher"
+	},
+	{
+		"name": "hip-bloodberry",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.liberal-night-thrasher.hip-bloodberry"
+	},
+	{
+		"name": "causal-yellowjacket",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.liberal-night-thrasher.causal-yellowjacket"
+	},
+	{
+		"name": "internal-midnight",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "helped-black-knight.singular-howard.premium-viper.liberal-night-thrasher.internal-midnight"
+	},
+	{
+		"name": "precious-hawkeye",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye"
+	},
+	{
+		"name": "alert-blade",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade"
+	},
+	{
+		"name": "normal-rockslide",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide"
+	},
+	{
+		"name": "safe-blockbuster",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.safe-blockbuster"
+	},
+	{
+		"name": "fresh-payback",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.safe-blockbuster.fresh-payback"
+	},
+	{
+		"name": "upward-rampage",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.safe-blockbuster.upward-rampage"
+	},
+	{
+		"name": "lasting-legion",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.lasting-legion"
+	},
+	{
+		"name": "innocent-bionic",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.lasting-legion.innocent-bionic"
+	},
+	{
+		"name": "simple-robin-hood",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.simple-robin-hood"
+	},
+	{
+		"name": "normal-choice",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.simple-robin-hood.normal-choice"
+	},
+	{
+		"name": "striking-glory",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.simple-robin-hood.striking-glory"
+	},
+	{
+		"name": "darling-ladyhawk",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.simple-robin-hood.darling-ladyhawk"
+	},
+	{
+		"name": "credible-ink",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "precious-hawkeye.alert-blade.normal-rockslide.simple-robin-hood.credible-ink"
+	},
+	{
+		"name": "composed-vampiro",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro"
+	},
+	{
+		"name": "advanced-doppelganger",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger"
+	},
+	{
+		"name": "peaceful-shrinking",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking"
+	},
+	{
+		"name": "crisp-husk",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.crisp-husk"
+	},
+	{
+		"name": "delicate-viper",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.crisp-husk.delicate-viper"
+	},
+	{
+		"name": "becoming-andromeda",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.crisp-husk.becoming-andromeda"
+	},
+	{
+		"name": "noble-metamorpho",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.crisp-husk.noble-metamorpho"
+	},
+	{
+		"name": "open-snowbird",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.crisp-husk.open-snowbird"
+	},
+	{
+		"name": "pure-sunfire",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.pure-sunfire"
+	},
+	{
+		"name": "faithful-orion",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.pure-sunfire.faithful-orion"
+	},
+	{
+		"name": "equal-hawkwoman",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.pure-sunfire.equal-hawkwoman"
+	},
+	{
+		"name": "skilled-lava-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.pure-sunfire.skilled-lava-man"
+	},
+	{
+		"name": "summary-conan",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.summary-conan"
+	},
+	{
+		"name": "cunning-cherry",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.summary-conan.cunning-cherry"
+	},
+	{
+		"name": "artistic-firedrake",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.summary-conan.artistic-firedrake"
+	},
+	{
+		"name": "funny-infragirl",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.funny-infragirl"
+	},
+	{
+		"name": "dashing-gargoyle",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-shrinking.funny-infragirl.dashing-gargoyle"
+	},
+	{
+		"name": "valid-starbolt",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt"
+	},
+	{
+		"name": "enabling-aspen",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.enabling-aspen"
+	},
+	{
+		"name": "giving-ant-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.enabling-aspen.giving-ant-man"
+	},
+	{
+		"name": "profound-crazy",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.enabling-aspen.profound-crazy"
+	},
+	{
+		"name": "sweeping-fantomex",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.sweeping-fantomex"
+	},
+	{
+		"name": "moving-firebrand",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.sweeping-fantomex.moving-firebrand"
+	},
+	{
+		"name": "first-barracuda",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.first-barracuda"
+	},
+	{
+		"name": "magical-tag",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.valid-starbolt.first-barracuda.magical-tag"
+	},
+	{
+		"name": "peaceful-becatron",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron"
+	},
+	{
+		"name": "loyal-speedy",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.loyal-speedy"
+	},
+	{
+		"name": "hip-impossible-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.loyal-speedy.hip-impossible-man"
+	},
+	{
+		"name": "suited-witchblade",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.loyal-speedy.suited-witchblade"
+	},
+	{
+		"name": "becoming-multiple-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.loyal-speedy.becoming-multiple-man"
+	},
+	{
+		"name": "dominant-captain-stacy",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.loyal-speedy.dominant-captain-stacy"
+	},
+	{
+		"name": "wondrous-king-bedlam",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.wondrous-king-bedlam"
+	},
+	{
+		"name": "enormous-lord-tyger",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.wondrous-king-bedlam.enormous-lord-tyger"
+	},
+	{
+		"name": "fancy-liberty",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.wondrous-king-bedlam.fancy-liberty"
+	},
+	{
+		"name": "fitting-ultimatum",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.wondrous-king-bedlam.fitting-ultimatum"
+	},
+	{
+		"name": "magical-grandmaster",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.wondrous-king-bedlam.magical-grandmaster"
+	},
+	{
+		"name": "pretty-vapor",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.pretty-vapor"
+	},
+	{
+		"name": "smooth-inhumans",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.pretty-vapor.smooth-inhumans"
+	},
+	{
+		"name": "legal-stormtrooper",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.peaceful-becatron.pretty-vapor.legal-stormtrooper"
+	},
+	{
+		"name": "strong-storm",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm"
+	},
+	{
+		"name": "measured-thunderbird",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.measured-thunderbird"
+	},
+	{
+		"name": "certain-tiger-shark",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.measured-thunderbird.certain-tiger-shark"
+	},
+	{
+		"name": "bright-bloodstorm",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.measured-thunderbird.bright-bloodstorm"
+	},
+	{
+		"name": "humane-boomer",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.measured-thunderbird.humane-boomer"
+	},
+	{
+		"name": "social-barb",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.measured-thunderbird.social-barb"
+	},
+	{
+		"name": "unique-menace",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.unique-menace"
+	},
+	{
+		"name": "civil-blood-wraith",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.unique-menace.civil-blood-wraith"
+	},
+	{
+		"name": "apparent-stingray",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.apparent-stingray"
+	},
+	{
+		"name": "vast-hiroim",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.apparent-stingray.vast-hiroim"
+	},
+	{
+		"name": "feasible-molecule-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.apparent-stingray.feasible-molecule-man"
+	},
+	{
+		"name": "kind-prism",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.kind-prism"
+	},
+	{
+		"name": "settled-revanche",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.advanced-doppelganger.strong-storm.kind-prism.settled-revanche"
+	},
+	{
+		"name": "intimate-sentinels",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels"
+	},
+	{
+		"name": "destined-weapon-omega",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega"
+	},
+	{
+		"name": "novel-avalanche",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.novel-avalanche"
+	},
+	{
+		"name": "normal-the-fury",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.novel-avalanche.normal-the-fury"
+	},
+	{
+		"name": "grand-magik",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.novel-avalanche.grand-magik"
+	},
+	{
+		"name": "immortal-husk",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.immortal-husk"
+	},
+	{
+		"name": "rested-the-leader",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.immortal-husk.rested-the-leader"
+	},
+	{
+		"name": "mature-atomic",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.immortal-husk.mature-atomic"
+	},
+	{
+		"name": "polite-beef",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.immortal-husk.polite-beef"
+	},
+	{
+		"name": "harmless-doctor-mindbender",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.intimate-sentinels.destined-weapon-omega.immortal-husk.harmless-doctor-mindbender"
+	},
+	{
+		"name": "quiet-controller",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller"
+	},
+	{
+		"name": "clean-gargoyles",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles"
+	},
+	{
+		"name": "flowing-smiling-tiger",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.flowing-smiling-tiger"
+	},
+	{
+		"name": "concrete-dyna",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.flowing-smiling-tiger.concrete-dyna"
+	},
+	{
+		"name": "living-black-cat",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.flowing-smiling-tiger.living-black-cat"
+	},
+	{
+		"name": "just-sentinels",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.flowing-smiling-tiger.just-sentinels"
+	},
+	{
+		"name": "harmless-vulture",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.flowing-smiling-tiger.harmless-vulture"
+	},
+	{
+		"name": "engaged-mandarin",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.engaged-mandarin"
+	},
+	{
+		"name": "funky-trauma",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.engaged-mandarin.funky-trauma"
+	},
+	{
+		"name": "master-snowbird",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.quiet-controller.clean-gargoyles.engaged-mandarin.master-snowbird"
+	},
+	{
+		"name": "alive-wendigo",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo"
+	},
+	{
+		"name": "pleased-the-hunter",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter"
+	},
+	{
+		"name": "selected-3d-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.selected-3d-man"
+	},
+	{
+		"name": "selected-wallop",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.selected-3d-man.selected-wallop"
+	},
+	{
+		"name": "elegant-spiral",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.elegant-spiral"
+	},
+	{
+		"name": "direct-expediter",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.elegant-spiral.direct-expediter"
+	},
+	{
+		"name": "giving-frog-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.elegant-spiral.giving-frog-man"
+	},
+	{
+		"name": "musical-stilt-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.elegant-spiral.musical-stilt-man"
+	},
+	{
+		"name": "immune-deathstrike",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.elegant-spiral.immune-deathstrike"
+	},
+	{
+		"name": "rational-ant-man",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.rational-ant-man"
+	},
+	{
+		"name": "lenient-captain-planet",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.rational-ant-man.lenient-captain-planet"
+	},
+	{
+		"name": "diverse-gypsy",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.rational-ant-man.diverse-gypsy"
+	},
+	{
+		"name": "engaging-hobgoblin",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.rational-ant-man.engaging-hobgoblin"
+	},
+	{
+		"name": "finer-dream",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.finer-dream"
+	},
+	{
+		"name": "solid-lanolin",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.finer-dream.solid-lanolin"
+	},
+	{
+		"name": "hip-talos",
+		"org_id": "29ac9391-8ff2-493a-a310-0187453e4942",
+		"paths": "composed-vampiro.alive-wendigo.pleased-the-hunter.finer-dream.hip-talos"
+	}
+]
